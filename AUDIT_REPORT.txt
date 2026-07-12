@@ -1,0 +1,5 @@
+COINS STATIC SITE AUDIT
+- No fetch(), Worker, D1, KV, secrets, or account processing.
+- Internal links resolve to included files.
+- Domain file is coins.jsl-ian.com.
+- Responsive styles included for tablet and mobile.
